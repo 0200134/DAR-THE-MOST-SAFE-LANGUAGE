@@ -1,2 +1,3 @@
 # DAR-THE-MOST-SAFE-LANGUAGE
-Imolemented  with  ada.
+Implemented  with  ada.  It is open  source  project,  and  its  aims  to be replace  all  unsafe  languages such  as  traditional  languages.
+
