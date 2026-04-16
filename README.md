@@ -6,4 +6,4 @@ Implemtated with  various  lanuage.  It is open  source  project,  and  its  aim
 live  with all traditional languages.
 DAR is  the movement to be its previous  system  more  safer.
 DAR also is  the  its will  too. DAR is  the not  dependant  on  specific  language.  It is  also  movements to be  build more  safe and  secure world.
-
+*"WE DIDN'T DENY PREVIOUS  SYSTEMS"* 
